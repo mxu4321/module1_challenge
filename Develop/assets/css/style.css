@@ -44,6 +44,7 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
+    margin: 10px;  /* added margin here */
 }
 
 p {
@@ -73,6 +74,11 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+/* added aside selector */
+aside {
+    margin-top: -80.1%;
 }
 
 .benefits {

@@ -78,7 +78,7 @@ p {
 
 /* added aside selector */
 aside {
-    margin-top: -80.1%;
+    margin-top: -55.5%;
 }
 
 .benefits {
@@ -195,7 +195,8 @@ aside {
 }
 
 .footer {
-    padding: 30px;
+    padding-top: 6%;    /* changed "padding: 30px" to "padding-top: 6%; " */
+    padding-bottom: 2%;    /* added padding-bottom: 2%; */
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;

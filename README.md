@@ -18,9 +18,9 @@ This is a project for HTML CSS Git code refactor to meet a certain set of standa
 ## Changes I have made
 
 - Changed title from "website" to "Horiseon"
-- Added semantic HTML elements to index.html including: <header>, <nav>, <section>, <aside>, <footer>
+- Added semantic HTML elements to index.html including:" <header>", "<nav>", "<section>", "<aside>", "<footer>"
 - Inside the index.html file I changed <h2> to <h4> in <footer> element
-- Added "alt" attribute to all <img> elements
+- Added "alt" attribute to all "<img>" elements
 - Added aside {} selector into style.css
 - Added margin properties in a {} selector to style.css
 - Adjust padding properties in footer {} selector to style.css

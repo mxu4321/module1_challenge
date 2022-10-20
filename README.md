@@ -29,6 +29,6 @@ This is a project for HTML CSS Git code refactor to meet a certain set of standa
 
 ## Screenshots
 
-- [top of the webpage screenshot](develop/assets/images/top.png)
-- [middle of the webpage screenshot](develop/assets/images/middle.png)
-- [bottom of the webpage screenshot](develop/assets/images/bottom.png)
+- ![top of the webpage screenshot](develop/assets/images/top.png)
+- ![middle of the webpage screenshot](develop/assets/images/middle.png)
+- ![bottom of the webpage screenshot]([develop/assets/images/bottom.png](https://github.com/mxu4321/bootcamp-module1-challenge/blob/main/Develop/assets/images/bottom.png))

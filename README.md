@@ -35,5 +35,5 @@ This is a project for HTML CSS Git code refactor to meet a certain set of standa
 
 
 ## Link to the website:
- ![Horiseon Website](https://mxu4321.github.io/bootcamp-module1-challenge/)
+ [Horiseon Website](https://mxu4321.github.io/bootcamp-module1-challenge/)
 

@@ -1,11 +1,11 @@
-# ucb btc module 1 challenge
+# Website of Horiseon
 
 ## Description
 
 This is a project for HTML CSS Git code refactor to meet a certain set of standards, all comments inside index.html and style.css described the change I made from the starter code package.  
 
 
-## Acceptance Criteria of this challenge
+## Acceptance Criteria
 
 - GIVEN a webpage meets accessibility standards
 - WHEN I view the source code, THEN I find semantic HTML elements
@@ -15,15 +15,9 @@ This is a project for HTML CSS Git code refactor to meet a certain set of standa
 - WHEN I view the title element, THEN I find a concise, descriptive title
 
 
-## Changes I have made
-
-- Changed title from "website" to "Horiseon"
-- Added semantic HTML elements to index.html including: header, nav, section, aside, footer
-- Inside the index.html file I changed h2 to h4 in footer element
-- Added "alt" attribute to all img elements
-- Added aside {} selector into style.css
-- Added margin properties in a {} selector to style.css
-- Adjust padding properties in footer {} selector to style.css
+## Technology used
+- HTML
+- CSS
 
 
 
